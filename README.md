@@ -1,0 +1,2 @@
+# SydneyLivabilityScore
+Data Analysis on the Sydney Liveability Score based on the several factors such as education, rent, crime rate. Two additional datasets are imported to refine and modify the formulas. Use Python and Python Libraries to perform data cleaning and manipulate data frame. Use PostgreSQL to perform Natural Join and Spatial Join on datasets, then calculate the z score for each factor. Apply sigmoid function to the formulas to calculate the liveability score for each region. Apply sigmoid function to visualise and make further analysis. 
